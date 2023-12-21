@@ -16,6 +16,7 @@
             "outputPath": "dist/simpledemo2112",
             "index": "src/index.html",
             "browser": "src/main.ts",
+            "externalDependencies": ["lodash"],
             "polyfills": [
               "zone.js"
             ],
